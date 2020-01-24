@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "OLKInterpreterSimProvider",
+	"category" : "OL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"theDirectory",
+		"theDescriptor"
+	],
+	"name" : "OLKNativeInterpreterSimProvider",
+	"type" : "normal"
+}
